@@ -8,3 +8,4 @@ Click below to view the ScPex3 ensemble in Mol*:
 
 [![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/models_sc_pex3/refs/heads/main/mol-star_state.molx&snapshot-url-type=molx)
 
+
